@@ -1,5 +1,5 @@
 # super-hero-expanding-cards
-Superhero Expanding Cards  
+
 🦸 Superhero Expanding Cards
 
 A sleek and interactive card layout built with HTML, CSS, and JavaScript where superhero-themed cards expand smoothly when clicked.
